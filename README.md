@@ -1,3 +1,3 @@
 # UP_Lat1
 
-mau bikin GITHUB
+tentang bikin GITHUB pertama kali
